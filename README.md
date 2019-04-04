@@ -21,7 +21,11 @@ For this project, I was interestested in using INSEE data (french institute for 
 
 ## File Descriptions <a name="files"></a>
 
-1) There is 1 jupyter noteboob available here to store analysis work related to the questions highlighted above. The notebook's name is INSEE.ipynb
+There are 3 main categories of files in this analysis
+
+1) Jupyter notebook
+
+- INSEE.ipynb contains analysis work related to the questions highlighted above. 
 
 2) INSEE statistical datasets
 
