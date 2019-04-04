@@ -21,10 +21,9 @@ For this project, I was interestested in using INSEE data (french institute for 
 
 ## File Descriptions <a name="files"></a>
 
-There is 1 jupyter noteboob available here to store analysis work related to the questions highlighted above. The notebook's name is INSEE.ipynb
-Apart from the notebook, there are two distinct set of data files coming from two separated sources, not all the files were used in this analysis :
+1) There is 1 jupyter noteboob available here to store analysis work related to the questions highlighted above. The notebook's name is INSEE.ipynb
 
-1) INSEE statistical datasets
+2) INSEE statistical datasets
 
 - base_etablissement_par_tranche_effectif.csv	main dataset for firms information in France
 - communes.geojson	Not used
@@ -32,7 +31,7 @@ Apart from the notebook, there are two distinct set of data files coming from tw
 - name_geographic_information.csv	not used
 - net_salary_per_town_categories.csv	main dataset for salaries information per french cities
 
-2) Geographical Information systems datasets used by geopandas python module
+3) Geographical Information systems datasets used by geopandas python module
 
 X = 1 to 5, where each value of X represents the administrative level at which the map of France is plotted (Country level , Region level , Departement level , cities level etc)
 For this analysis, I used the "departement" level, so X = 2
